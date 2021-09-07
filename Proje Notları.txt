@@ -1,0 +1,46 @@
+Bu Proje Dijital Dönüþüm Akademi youtube kanalý kurumsal mimari oynatma listesinden takip edilmiþtir.
+Projede 4 Katman var
+ 1.Core (repository service yazacaz bütün methotlar burada) (interface)
+ 2.Service (core daki serviceler buraya implaemente edilecek)
+ 3.Data
+ 4.API
+
+ 26 OCak 2020 23.48 de Kurumsal Mimari 2. oturum 41. dakiakaya kadar.
+
+ ÝYÝ Bilinmesi gerekenler
+ 1.Metot Konusu geri dönüþ tipli olan
+ 2.Ýnterface 
+ 3.REferans tip ve deðer tip
+ 4. Generic sýnýfý
+ 5.Delegates Even konularý
+
+ //iþ süreçleri servvice katmanýnda kodlanýrs
+
+       UNIT OF WORK =>Bize crud iþlemlerini yerine getirmek için inisiyatif veriyor önce hafýzaya alýyor sonra veritabanýnýna ekliyor
+
+27 OCak 2020 23.48 de Kurumsal Mimari 3 . oturum 10. dakiakaya kadar.
+
+solid
+s=>her class bir iþ yapmalý
+o=>
+
+14 Þubat 4. video bitti service classý eksik kaldý
+
+/// Data katmanýnda interfacelerimiz concrete(Ýntefracelerin içini dolduruyoruz) yapýyoruz
+
+// DTO Data Transfer Object  
+
+15 Þubat 5. video biti
+////
+9 Nisan 09.08 6. videoya baþladýk. 
+6.video dakika 56'dan sonra genel proje tekrarý yapýyýr hoca
+10.54 de 6.video bitti
+///
+19.04.2021 saat 00.15 7.videou baþladý
+-errodto  clasýý oluþturduk 
+ -filter klasörü ve 
+  *** Api projelerinde controller isimleri çoðul yazýlýr mvc projelerinde ise tekil yazýlýr
+02.15 ders bitt dersin son 15 dakikasýnda apiden ve microservisten bahsetti hooca
+////
+8.video 19 Nisan 22.30 baþladýk
+9.video 20 Nisan 12.00 da bitti
